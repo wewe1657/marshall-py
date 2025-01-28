@@ -6,7 +6,7 @@ __YouTube Link:__ [https://www.youtube.com/watch?v=TBwCpiLMYOw](https://www.yout
 
 ### Problem Overview
 
-Given a single number, determine if it is prime.
+Given a single number, determine if it is [prime](https://en.wikipedia.org/wiki/Prime_number).
 
 ### You will learn:
 
