@@ -6,7 +6,7 @@ __YouTube Link:__ [https://www.youtube.com/watch?v=3RejfYPSQI4](https://www.yout
 
 ### Problem Overview
 
-How to add all values from a N, ``a positve integer > 1```, all the way to 1.
+How to add all values from a N, ```a positve integer > 1```, all the way to 1.
 
 ### You will learn:
 
