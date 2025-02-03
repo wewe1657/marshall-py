@@ -5,7 +5,7 @@ This repository currently contains the following:
 1. A directory per exercise problems with solutions on YouTube
 2. An empty Python file that a potential programmer can code on.
 
-_It is expected that the user understands knows how to navigate to different directories and execute a Python file from the terminal._
+_It is expected that the user understands/knows how to navigate to different directories and execute a Python file from the terminal._
 
 ## Fork and Clone a Repository
 
@@ -23,7 +23,7 @@ Follow these steps to fork the current repository and clone it to your computer:
 2. Click the **Code** button.
 3. Copy the URL for the repository.
 
-_Using HTTPS Cloning Methond_
+_Using HTTPS Cloning Method_
 
 ```sh
 git clone https://github.com/YOUR-USERNAME/YOUR-FORKED-REPO.git
