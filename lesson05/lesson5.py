@@ -13,7 +13,7 @@ for current_cookie in cookies_sold:
 #print(current_cookie)
     if current_cookie == "c":
         normal_cookies += 1
-    elif current_cookies == "b":
+    elif current_cookie == "b":
         big_cookies += 1
     else:
         print (f"{current_cookie} is not a valid item")
